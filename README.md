@@ -14,10 +14,6 @@ This is a personal portfolio website for Abdiwasa Abdilahi, built with HTML, CSS
 - Contact form with validation
 - Integrated Google Maps location
 
-## Demo
-
-![Desktop Demo](website-demo-image/desktop.png)
-![Mobile Demo](website-demo-image/mobile.png)
 
 ## Getting Started
 
