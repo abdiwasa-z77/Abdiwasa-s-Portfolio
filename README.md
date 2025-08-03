@@ -25,7 +25,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/your-username/Abdiwasa's-portfolio.git
    ```
 2. Open `index.html` in your browser.
 
